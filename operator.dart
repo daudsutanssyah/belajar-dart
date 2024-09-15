@@ -34,8 +34,6 @@ void main(){
   int modulo = y % z;
   var hasil = x / z;
 
-  
-  
   y++; // y = y + 1 y = 20 +1
   y += 5; //y = y + 5
 
