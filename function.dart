@@ -10,6 +10,7 @@ contoh :
 }
 5.setiap fungsi itu mengembalikkan nilai. kecuali type void
 6. cara menjalankan fungsi dengan memanggil nama fungsi tersebut
+7. tanda tanya adalah 'null safety'
 */ 
 
 void main() {

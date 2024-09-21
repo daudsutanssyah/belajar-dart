@@ -12,6 +12,8 @@ map -> kumpulan data ditandai dengan kurung kurawal, key:value -> {'nama' : hall
 variable itu punya tipe data
 variable = type data
 variable ditandai dengan "var"
+variable yang tetap "konstanta" ditandai dengan "const"
+variabel tetap ditandai "final"
 
 if(kondisi){statement}
 elseif(kondisi){statement}
@@ -21,6 +23,8 @@ else{statement}
 
 
 import 'dart:io';
+final FirstName = '';
+
 
 void main(){
 
@@ -41,5 +45,5 @@ if (kondisi == 'hujan' ){
 } else {
   print(" jadi ketemu $nama_ibu "); 
 }
-
+ 
 }
