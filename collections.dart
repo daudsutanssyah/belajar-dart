@@ -31,7 +31,7 @@ collections
 
 void main ()
 {
-  var tokoBuah = ['apel', 'jeruk'];
+  // var tokoBuah = ['apel', 'jeruk'];
 
   List<int> deretAngka = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   List<String> namaDosen = [ 'prabowo', 
