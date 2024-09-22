@@ -6,6 +6,5 @@
  3.encapsulation, imheritance, abstaction, polymorphism
  4. setiap class itu attribute -> variable
  5. setiap class itu behaviour -> fungsi
-
 */
-
+// mixin 
